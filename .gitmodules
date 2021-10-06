@@ -1,0 +1,9 @@
+[submodule "IMS_Products"]
+	path = IMS_Products
+	url = https://github.com/InMechaSol/IMS_Products.git
+[submodule "IMS_Compute_Solutions"]
+	path = IMS_Compute_Solutions
+	url = https://github.com/InMechaSol/IMS_Compute_Solutions.git
+[submodule "IMS_Compute_Resources"]
+	path = IMS_Compute_Resources
+	url = https://github.com/InMechaSol/IMS_Compute_Resources.git
